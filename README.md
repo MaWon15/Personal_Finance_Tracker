@@ -1,4 +1,4 @@
-# Personal Finance Tracker (Android)
+# Proẹct: Personal Finance Tracker 
 
 ## Overview
 **Personal Finance Tracker** app helps users track **income and expenses**, organize spending with **categories**, and view quick insights on a **Dashboard** (balance, recent transactions, and spending breakdown by category with a pie chart).
