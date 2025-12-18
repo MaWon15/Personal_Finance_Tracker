@@ -1,13 +1,13 @@
 # Personal Finance Tracker (Android)
 
 ## Overview
-**Personal Finance Tracker** is an Android app that helps users track **income and expenses**, organize spending with **categories**, and view quick insights on a **Dashboard** (balance, recent transactions, and spending breakdown by category with a pie chart).
+**Personal Finance Tracker** app helps users track **income and expenses**, organize spending with **categories**, and view quick insights on a **Dashboard** (balance, recent transactions, and spending breakdown by category with a pie chart).
 
 Built with **Jetpack Compose** and **Room Database**, and secured with **Firebase Email/Password Authentication**.
 
 ---
 
-## What This Project Satisfies (Course Requirements)
+## What This Project Satisfies
 
 ### 1) Authentication (Firebase Email/Password)
 - ✅ Email/Password **Sign Up** and **Login**
@@ -40,9 +40,8 @@ Built with **Jetpack Compose** and **Room Database**, and secured with **Firebas
   - Sign Up
   - Dashboard (Home)
   - Transactions List
-  - Add Transaction
-  - Edit Transaction
-  - Categories Management
+  - Add/Edit Transaction
+  - Categories Management as well as add/edit Categories
   - Profile/Settings (Sign out)
 
 ### 4) Architecture
@@ -54,9 +53,6 @@ Built with **Jetpack Compose** and **Room Database**, and secured with **Firebas
 ---
 
 ## Functional Screens (Screenshots)
-
-> Put your screenshots inside: `./screenshots/`  
-> Recommended filenames are below (you can rename them, just update the paths).
 
 ### 1) Login Screen
 ![Login Screen](screenshots/Login.jpeg)
@@ -77,26 +73,16 @@ Built with **Jetpack Compose** and **Room Database**, and secured with **Firebas
 ![Categories Screen](screenshots/Catagories.jpeg)
 
 ### 8) Profile / Settings Screen (Sign Out)
-![Profile Screen](screenshots/Profile.png)
+![Profile Screen](screenshots/Profile.jpeg)
 
 ---
 
-## Tech Stack
+## Using-Tech List:
 - **Kotlin**
-- **Jetpack Compose (Material 3)**
+- **Jetpack Compose**
 - **Navigation Compose**
 - **Room Database**
 - **Firebase Authentication (Email/Password)**
 - **Coroutines + Flow/StateFlow**
 
 ---
-
-## Getting Started (Local Run)
-1. Clone the repo
-2. Open in **Android Studio**
-3. Create a Firebase project and enable **Email/Password** provider
-4. Download `google-services.json` and place it here:
-   - `app/google-services.json`
-5. Sync Gradle and run the app on an emulator/device
-
-> Note: `google-services.json` is intentionally not committed to GitHub.
