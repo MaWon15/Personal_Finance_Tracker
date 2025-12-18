@@ -59,28 +59,25 @@ Built with **Jetpack Compose** and **Room Database**, and secured with **Firebas
 > Recommended filenames are below (you can rename them, just update the paths).
 
 ### 1) Login Screen
-![Login Screen](screenshots/01_login.png)
+![Login Screen](screenshots/Login.jpeg)
 
 ### 2) Sign Up Screen
-![Sign Up Screen](screenshots/02_signup.png)
+![Sign Up Screen](screenshots/Signup.jpeg)
 
 ### 3) Dashboard (Balance + Recent + Spending Pie Chart)
-![Dashboard Screen](screenshots/03_dashboard.png)
+![Dashboard Screen](screenshots/Dashboard.jpeg)
 
-### 4) Transactions List Screen
-![Transactions List Screen](screenshots/04_transactions_list.png)
+### 4) Transactions Expenses List Screen
+![Transactions List Screen](screenshots/Transactions_Expenses.jpeg)
 
-### 5) Add Transaction Screen
-![Add Transaction Screen](screenshots/05_add_transaction.png)
+### 5) Transaction Income List Screen
+![Add Transaction Screen](screenshots/Transactions_Income.jpeg)
 
-### 6) Edit Transaction Screen
-![Edit Transaction Screen](screenshots/06_edit_transaction.png)
-
-### 7) Categories Management Screen (CRUD)
-![Categories Screen](screenshots/07_categories.png)
+### 6) Categories Management Screen (CRUD)
+![Categories Screen](screenshots/Catagories.jpeg)
 
 ### 8) Profile / Settings Screen (Sign Out)
-![Profile Screen](screenshots/08_profile.png)
+![Profile Screen](screenshots/Profile.png)
 
 ---
 
