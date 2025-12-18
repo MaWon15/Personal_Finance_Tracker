@@ -86,3 +86,7 @@ Built with **Jetpack Compose** and **Room Database**, and secured with **Firebas
 - **Coroutines + Flow/StateFlow**
 
 ---
+
+## Demo Account
+- **Email: abc@gmail.com
+- **Pass: 123456
